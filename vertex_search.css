@@ -1,0 +1,21 @@
+/* this css is intended to make your widget look terrible. */
+
+.backdrop {
+	background : floralwhite !important ;
+}
+
+.content {
+	background-color : blue !important ;
+}
+
+.main-input {
+	background-color : pink !important ;
+}
+
+div[aria-label="Search widget"] {
+	width : 800px !important ; 
+	margin : auto !important ;
+	display : block !important ; 
+	top : initial !important ;
+	left : initial !important ;
+}
